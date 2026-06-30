@@ -93,9 +93,6 @@ File uploaded successfully to the S3 bucket.
 ## Screenshots
 
 
-### Backup Created
-
-![Backup](screenshots/backup-created.png)
 
 ### Upload to Amazon S3
 

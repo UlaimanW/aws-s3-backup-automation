@@ -96,13 +96,22 @@ File uploaded successfully to the S3 bucket.
 
 ### Upload to Amazon S3
 
+The generated backup archive is uploaded successfully to an Amazon S3 bucket.
+
+
 ![S3 Upload](screenshots/s3-upload.png)
 
 ### Cron Automation
 
+The backup script is scheduled to run automatically every two minutes using Cron.
+
+
 ![Cron](screenshots/cron-job.png)
 
 ### Log File
+
+The script records backup operations and status messages in a log file.
+
 
 ![Log](screenshots/logfile.png)
 
